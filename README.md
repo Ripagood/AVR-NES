@@ -6,6 +6,8 @@ and some .pngs for the menu. I have tested only Super Mario Bros, Volleyball and
 
 More of a showcase than anything.
 
+See it running super mario bros [here](https://www.youtube.com/watch?v=w6mPG04RSgk)
+
 
 
 Kudos to  Rupert Shuttleworth for the original NES emulator implementation.
